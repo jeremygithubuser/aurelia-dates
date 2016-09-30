@@ -1,0 +1,16 @@
+{
+  "name": "aurelia-dates",
+  "version": "1.0.0",
+  "description": "shared date classes",
+  "directories": {
+    "lib": "src"
+  },
+  "main": "index.js",
+  "format": "es6",
+  "registry": "jspm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremy daniel bouvier",
+  "license": "MIT"
+}
